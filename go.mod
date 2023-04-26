@@ -1,4 +1,4 @@
-module github.com/deveshdama/mypackage
+module github.com/deveshdama/mydummypackage
 
 go 1.19
 
